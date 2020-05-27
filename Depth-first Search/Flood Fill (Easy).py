@@ -1,4 +1,4 @@
-# 733. Flood Fill
+# 733. Flood Fill - Easy
 # Tags - Depth-first Search (DFS)
 
 class Solution: 
