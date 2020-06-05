@@ -1,6 +1,8 @@
 # 528. Random Pick with Weight - Medium
 # Tags - Binary Search, Random
 
+# Note - Question extremely vague ... sample solution plugged from discussion board
+
 class Solution:
 
     def __init__(self, w: List[int]):
